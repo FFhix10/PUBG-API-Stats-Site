@@ -11,7 +11,7 @@
    "license": "ISC",
    "dependencies": {
       "axios": "*",
-      "fastify": "*",
+      "fastify": "2.15.3",
       "fastify-formbody": "*",
       "fastify-static": "*",
       "fastify-typeorm": "*",
