@@ -10,7 +10,7 @@
    "author": "",
    "license": "ISC",
    "dependencies": {
-      "axios": "*",
+      "axios": "0.20.0",
       "fastify": "*",
       "fastify-formbody": "*",
       "fastify-static": "*",
